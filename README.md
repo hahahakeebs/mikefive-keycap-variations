@@ -14,6 +14,8 @@ This port requires some extra work to get right. The tolerances on the clips for
 
 I wanted to see if JLC's MJF process could handle the tolerances needed for the clips without having to separate the clips from the keycap surface, so I ordered some, and they turned out pretty well. The keycap walls are either at or under the tolerances JLC requires for the method, so there can be imperfections. Buy extras if this will bother you, but otherwise they fit and worked as well as I could have hoped.
 
+Update: I added sprued versions of the single cap for easier jlc ordering.
+
 Credit for design goes to [Mike Holscher](https://github.com/mikeholscher), thanks for putting mikefive/mikecinq/this keycap profile out into the world!
 
 These have been produced and tested, do what thou wilt. Don't expect support beyond a silent, empathetic, but also awkward hug if these keycaps burn down your house or something.
